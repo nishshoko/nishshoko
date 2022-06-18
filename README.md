@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nishshoko
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning python
